@@ -1,0 +1,2 @@
+SET(LIBRARY_SRC hello.cpp)
+ADD_LIBRARY(hello SHARED ${LIBRARY_SRC})
